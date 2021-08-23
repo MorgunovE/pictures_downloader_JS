@@ -34,3 +34,16 @@
 34. add previewInfo in upload
 35. add previewInfo(blocks) in app
 36. add link to image in app
+37. //////////////////
+38. npm install -g firebase-tools
+39. firebase login
+40. firebase init
+41. hosing
+42. existing project
+43. choose project
+44. dist index y
+45. npm run serve
+46. firebase deploy
+47. firebase dashbord /hosting/sites
+48. https://pictures-downloader.web.app/
+49. https://pictures-downloader.firebaseapp.com/
