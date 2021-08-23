@@ -1,0 +1,26 @@
+{
+  "name": "pictures_downloader_js",
+  "version": "1.0.0",
+  "description": "1. npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorgunovE/pictures_downloader_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorgunovE/pictures_downloader_JS/issues"
+  },
+  "homepage": "https://github.com/MorgunovE/pictures_downloader_JS#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.10.0"
+  }
+}

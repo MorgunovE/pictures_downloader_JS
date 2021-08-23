@@ -1,6 +1,6 @@
 ### Example user template template
 ### Example user template
-
+.node_modules
 # IntelliJ project files
 .idea
 *.iml
